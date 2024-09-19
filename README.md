@@ -14,6 +14,8 @@ This repository contains code and data needed to reproduce the article:
 - `JEN_END_HOBO.csv` - Internal cave temperature readings for Jenolan to produce Figure 1.
 - `YES_EXT_HOBO.csv` - External temperature readings for Yessabah to produce Figure 1.
 - `YES_END_HOBO.csv` - Internal cave temperature readings for Yessabah to produce Figure 1.
+
+**Files**
 - Miniopterus_orianae_oceanensis - Contains shape files of *Miniopterus orianae oceanensis* extent distribution from [BatMap](https://www.ausbats.org.au/batmap.html) to produce Figure 1.
 
 **Analysis workflow**
