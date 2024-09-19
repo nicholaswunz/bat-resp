@@ -7,7 +7,7 @@ This repository contains code and data needed to reproduce the article:
 
 **Wu N. C., Villada-Cadavid T., & Turbill, C.** (In Prep) Climate and genetic influence on intraspecific patterns in torpor physiology. *Journal Name*,
 
-**Raw data**
+**Data**
 - `resp_raw_dat.csv` - Raw respirometry data used for the analysis.
 - `bat_gl7.fas.treefile` - Genetic relatedness of all measured individuals used in the study.
 - `JEN_EXT_HOBO.csv` - External temperature readings for Jenolan to produce Figure 1.
