@@ -19,7 +19,7 @@ This repository contains code and data needed to reproduce the article:
 - Miniopterus_orianae_oceanensis - Contains shape files of *Miniopterus orianae oceanensis* extent distribution from [BatMap](https://www.ausbats.org.au/batmap.html) to produce Figure 1.
 
 **Analysis workflow**
-- To do - Supplementary information which contains the *R* workflow for processing and analysing the raw data, and creating figures.
+- [`supplementary_information.html`](https://nicholaswunz.github.io/bat-resp/supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, and creating figures.
 
 ## Abstract
 To do
