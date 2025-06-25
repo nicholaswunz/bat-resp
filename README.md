@@ -9,6 +9,7 @@ This repository contains code and data needed to reproduce the article:
 
 **Data**
 - `resp_raw_dat.csv` - Raw respirometry data used for the analysis.
+- `cave_survey.csv` - Raw cave temperature and humidity data during winter bat surveys inside the caves.
 - `bat_gl7.fas.treefile` - Genetic relatedness of all measured individuals used in the study.
 - `JEN_EXT_HOBO.csv` - External temperature readings for Jenolan to produce Figure 1.
 - `JEN_END_HOBO.csv` - Internal cave temperature readings for Jenolan to produce Figure 1.
