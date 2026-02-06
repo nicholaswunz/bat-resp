@@ -7,6 +7,11 @@ This repository contains code and data needed to reproduce the article:
 
 **Wu N. C., Villada-Cadavid T., & Turbill, C.** (In review) Local climate and genetic influence on intraspecific variation in torpor physiology of a cave-roosting bat.
 
+When using the data or code from this project, please cite it as:
+
+Wu N. C., Villada-Cadavid T., & Turbill, C. (2026) Accepted version of paper data and code of manuscript: Local climate and genetic influence on intraspecific variation in torpor physiology of a cave-roosting bat. Zenodo. DOI: [![DOI](https://zenodo.org/badge/794788712.svg)](https://doi.org/10.5281/zenodo.15447773)
+
+
 **Data**
 - `resp_raw_dat.csv` - Raw respirometry data used for the analysis.
 - `cave_survey.csv` - Raw cave temperature and humidity data during winter bat surveys inside the caves.
