@@ -5,7 +5,7 @@ Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 This repository contains code and data needed to reproduce the article:
 
-**Wu N. C., Villada-Cadavid T., & Turbill, C.** (2026) Local climate and genetic influence on intraspecific variation in torpor physiology of a cave-roosting bat. *Functional Ecology*,
+**Wu N. C., Villada-Cadavid T., & Turbill, C.** (2026) Local climate and genetic influence on intraspecific variation in torpor physiology of a cave-roosting bat. *Functional Ecology*, **40**, 857-867. DOI: [![DOI](https://zenodo.org/badge/DOI/10.1111/1365-2435.70292.svg)](https://doi.org/10.1111/1365-2435.70292)
 
 When using the data or code from this project, please cite it as:
 
